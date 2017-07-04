@@ -1,4 +1,8 @@
-
+'''
+This is the implementation of signal modulation recognition with a convolution neural network via keras.
+The signal modulations are BPSK, QPSK, 16QAM and 64QAM with a SNR of 5dB.
+The final accuracy is 0.9475 after 20 epochs.
+'''
 # coding: utf-8
 
 # In[1]:
